@@ -16,6 +16,7 @@
 		AB309EB929867BB300AFF0ED /* ToastAppTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = AB309EB829867BB300AFF0ED /* ToastAppTests.swift */; };
 		AB309EC329867BB300AFF0ED /* ToastAppUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = AB309EC229867BB300AFF0ED /* ToastAppUITests.swift */; };
 		AB309EC529867BB300AFF0ED /* ToastAppUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = AB309EC429867BB300AFF0ED /* ToastAppUITestsLaunchTests.swift */; };
+		AB309ED2298EA2F700AFF0ED /* ViewController1.swift in Sources */ = {isa = PBXBuildFile; fileRef = AB309ED1298EA2F700AFF0ED /* ViewController1.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		AB309EBE29867BB300AFF0ED /* ToastAppUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = ToastAppUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		AB309EC229867BB300AFF0ED /* ToastAppUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ToastAppUITests.swift; sourceTree = "<group>"; };
 		AB309EC429867BB300AFF0ED /* ToastAppUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ToastAppUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		AB309ED1298EA2F700AFF0ED /* ViewController1.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController1.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -101,6 +103,7 @@
 			children = (
 				AB309EA129867BB100AFF0ED /* AppDelegate.swift */,
 				AB309EA329867BB100AFF0ED /* SceneDelegate.swift */,
+				AB309ED1298EA2F700AFF0ED /* ViewController1.swift */,
 				AB309EA529867BB100AFF0ED /* ViewController.swift */,
 				AB309EA729867BB100AFF0ED /* Main.storyboard */,
 				AB309EAA29867BB300AFF0ED /* Assets.xcassets */,
@@ -258,6 +261,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				AB309ED2298EA2F700AFF0ED /* ViewController1.swift in Sources */,
 				AB309EA629867BB100AFF0ED /* ViewController.swift in Sources */,
 				AB309EA229867BB100AFF0ED /* AppDelegate.swift in Sources */,
 				AB309EA429867BB100AFF0ED /* SceneDelegate.swift in Sources */,
